@@ -7,5 +7,3 @@ Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 - 💬 I'm learning all the dark magic for playing with the Cloud
 
 ![Yaohui's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaohui-wyh&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaohui-wyh&layout=compact)
